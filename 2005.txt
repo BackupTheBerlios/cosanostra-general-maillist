@@ -1,0 +1,698 @@
+From samer2004 at gmail.com  Thu Mar 24 19:52:22 2005
+From: samer2004 at gmail.com (Samer)
+Date: Thu, 24 Mar 2005 19:52:22 +0100
+Subject: [Cosanostra-general] Prueba
+Message-ID: <78428fff05032410525092ef37@mail.gmail.com>
+
+probando probando..uno dos uno dos...
+
+
+From noreply at berlios.de  Wed Mar 30 13:28:42 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Wed, 30 Mar 2005 13:28:42 +0200 (CEST)
+Subject: [Cosanostra-general] [cosanostra - General] Para todos, Integracion del sabado.
+Message-ID: <200503301128.j2UBSgpJ003846@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=16616
+By: nit
+
+Bueno vamos a ver supongo que todos lo sabreis, pero el sabado a las 10 de la
+ma?ana hemos quedado en biologicas con todos los portatiles posibles para integrar
+todo lo que podamos, es decir todo. Por cierto si alguien conoce de un bar donde
+podamos ir y conectar portatiles o una casa de alguien o algo asin mejor, por
+si no nos da tiempo, que no creo. Pons eso ya ta dicho, a las 10 en biologicas.
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
+From al_081 at hotmail.com  Wed Mar 30 19:06:13 2005
+From: al_081 at hotmail.com (=?iso-8859-1?B?wWx2YXJvIE5hdmFycm8=?=)
+Date: Wed, 30 Mar 2005 19:06:13 +0200
+Subject: [Cosanostra-general] okey makey
+Message-ID: <BAY103-F188FE44096A0B49E6968D5A4460@phx.gbl>
+
+Hola solo respondo para acostumbrarme a usar estas nuevas listas y ver que 
+funcionan.
+Lo del sabado me parece guay espero que haya muchos portatiles.
+Salu2 a todos.
+
+
+
+
+From andresjimenez at arrakis.es  Thu Mar 31 23:58:23 2005
+From: andresjimenez at arrakis.es (=?iso-8859-1?Q?Andr=E9s_Jim=E9nez_S=E1nchez?=)
+Date: Thu, 31 Mar 2005 23:58:23 +0200
+Subject: [Cosanostra-general] Hola
+Message-ID: <000a01c5363c$c409a030$0a01a8c0@deepblue>
+
+Hola Berlios. No me gustas. Nunca podr?s competir con Msn, por m?s que lo intentes. No eres m?s que una vil imitaci?n.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/cosanostra-general/attachments/20050331/9a7a308c/attachment.html>
+
+From al_081 at hotmail.com  Thu Apr  7 16:53:58 2005
+From: al_081 at hotmail.com (=?iso-8859-1?B?wWx2YXJvIE5hdmFycm8=?=)
+Date: Thu, 07 Apr 2005 16:53:58 +0200
+Subject: [Cosanostra-general] =?iso-8859-1?B?aU50RWdSYUNp024=?=
+In-Reply-To: <BAY103-F188FE44096A0B49E6968D5A4460@phx.gbl>
+Message-ID: <BAY103-F41DF562E6045423314F605A43E0@phx.gbl>
+
+Hola a todos:
+Bueno para ponernos al d?a Jorge me dijo que lo de Piernas iba a estar 
+pr?cticamente completo para el lunes (supongo que casi todo menos las 
+colisiones que eso es mucha tralla) y Samer me ha dicho que para el viernes 
+el cerebro iba a empezar a estar operativo con lo de los xml pero que hay 
+que hacer pruebas.
+Asin que si todo va relativamente bien el lunes podr?amos integrar ambas 
+cosas con la Medula y asi ya se puede probar todo.
+Por mi parte he probado lo de los videos (reproducir videos en formato .avi) 
+  con el opengl y funciona, lo ?nico que de momento lo hace en una ventana 
+distinta a la del juego.
+Salu2
+
+
+
+
+From noreply at berlios.de  Thu Apr  7 16:37:06 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Thu, 7 Apr 2005 16:37:06 +0200 (CEST)
+Subject: [Cosanostra-general] [cosanostra - General] iNtEgRaCiÓn
+Message-ID: <200504071437.j37Eb6tv003136@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=16871
+By: al_081
+
+Hola a todos para empezar mando el mensaje porque esto no lo usa casi nadie
+a ver si nos acostumbramos.
+Bueno para ponernos al d?a Jorge me dijo que lo de Piernas iba a estar pr?cticamente
+completo para el lunes (supongo que casi todo menos las colisiones que eso es
+mucha tralla) y Samer me ha dicho que para el viernes el cerebro iba a empezar
+a estar operativo con lo de los xml pero que hay que hacer pruebas.
+Asin que si todo va relativamente bien el lunes podr?amos integrar ambas cosas
+con la Medula y asi ya se puede probar todo.
+Por mi parte he probado lo de los videos con el opengl y funciona, lo ?nico
+que de momento lo hace en una ventana distinta a la del juego.
+Salu2
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
+From noreply at berlios.de  Sat Apr  9 21:40:27 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 9 Apr 2005 21:40:27 +0200 (CEST)
+Subject: [Cosanostra-general] [cosanostra - General] No quiero colisionar
+Message-ID: <200504091940.j39JeR4p028973@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=16926
+By: scaramouche
+
+Chic at s la desesperacion puede conmigo, se que deberia escribir codigo e ignorar
+los 4 errores de linkado que nos dan las colisiones. Pero no puedo!! algo me
+empuja a tratar de arreglarlos y cada vez que me pongo con ellos me cabreo mas.
+Quizas mi cabreo tambi?n sea que no puedo respirar por culpa del trancazo, que
+solo a mi se me a ocurrido coger ahora en primavera. Amigos la primavera no
+altera la sangre, la primavera es odiosa, te enrojece los ojos, te hace
+estornudar...
+Estoy delirando, lo se. Bueno ire en busca de las gotitas m?gicas que me despejen
+y consigan que respire bien. Y con algo de oxigeno en el cerebro seguire colisionando
+con los errores de linkado, con codigo de colisiones, con Vitto, con Vincenzo,
+con el sofa, en fins os veo el lunes si salgo de la cama sin colisionar con
+ella :(
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
+From noreply at berlios.de  Sun Apr 10 15:29:01 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sun, 10 Apr 2005 15:29:01 +0200 (CEST)
+Subject: [Cosanostra-general] [cosanostra - General] RE: No quiero colisionar
+Message-ID: <200504101329.j3ADT1c6010090@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=16946
+By: nit
+
+Palo se me ha ocurrido que puede ser que tengas que llamar a las funciones de
+diferente manera por si estan con el mismo nombre por algun lado, en vez de
+newCollideObjetc, llamale de otra manera, a ver que pasa, a todas,, y si no
+dejalo, investiga en lo que te devuelve y en como acceder a eso para saber los
+identificadores de cada objeto para implementarlo y ya nos pondremos el sabado.
+Ok, un bsete y a mejorarse.
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
+From noreply at berlios.de  Mon Apr 11 01:19:58 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sun, 10 Apr 2005 23:19:58 GMT
+Subject: [Cosanostra-general] [cosanostra - General] yo sí q Colisionaría al q inventó el LNK2005
+Message-ID: <200504102319.j3ANJwNG001358@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=16953
+By: phoebe
+
+Eso tampoco funciona, porque el problema no viene de ah?. El caso es que s?lo
+con las funciones de shape se queja, porque ni con el context, ni el object,
+ni el server... Nada.
+
+Hemos probado a tocar incluso los .pak, en el de M?dula hab?a una librer?a de
+collide y alguna cosa m?s que pensamos que no har?a falta. Pero pasa bastante
+de nosotros.
+
+Dejando a parte errores de linkado, seguimos con lo que devuelve esa funci?n
+extra?a, y tampoco es que la cosa pinte muy bien, pero vamos a mirar lo de los
+identificadores a ver si es posible. De todas formas puede ser la ofusquez del
+momento, pero con las instrucciones que nos dio el friki, acoplarlo a nuestro
+GestorNebula puede que no sea tan trivial :S, as? que paciencia, y vaporub para
+Paloma que se muere lentamente.
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
+From noreply at berlios.de  Sat Apr 23 10:19:20 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 23 Apr 2005 10:19:20 +0200 (CEST)
+Subject: [Cosanostra-general] [cosanostra - General] ya se que esto es una mierda
+Message-ID: <200504230819.j3N8JKCw011531@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=17314
+By: sergio_belmar
+
+ya se que este foro no mola tanto ccomo el de mafia, pero a veces me pregunto
+para que tanta cosa con lo de berlios, si el CVS se usa mierda y los foros se
+usan mas mierda todavia...
+Bueno, pos nada, solo dejar constancia de mi frustacion. 
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
+From noreply at berlios.de  Thu Apr 28 19:41:46 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Thu, 28 Apr 2005 17:41:46 GMT
+Subject: [Cosanostra-general] [cosanostra - General] VAMOS CHAVAL@S!!!!
+Message-ID: <200504281741.j3SHfkiS029874@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=17463
+By: milongo
+
+Mafiosos, ?nimo a todos, que esto ya casi est?!!! solo nos queda el ?ltimo empuj?n
+y ya tendremos juego!!! Despu?s de lo sufrido en esta ?ltima iteraci?n quiero
+deciros que estoy orgulloso de todos vosotr at s, y muy especialmente de mis chicas
+de gui?n, s? que no hay piernas, cerebro o colisi?n que se os resistan!!! ?lvaro,
+ya sabes, si necesitas ayuda, all? estar?n las chicas de gui?n d?ndolo todo!!!
+
+Un abrazo para tod at s!!!
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
+From andresjimenez at arrakis.es  Wed May  4 19:11:08 2005
+From: andresjimenez at arrakis.es (=?iso-8859-1?Q?Andr=E9s_Jim=E9nez_S=E1nchez?=)
+Date: Wed, 4 May 2005 19:11:08 +0200 (CEST)
+Subject: [Cosanostra-general] Importante para todos...sobre los
+ =?iso-8859-1?Q?cr=E9ditos_del_juego?=
+Message-ID: <1838.147.96.85.148.1115226668.squirrel@webmail.arrakis.com>
+
+Si nadie quiere hacerlo y nadie tiene inconveniente, ya que estoy con una
+canci?n para ellos y los siento como m?os, intentar? no morir y hacer los
+cr?ditos del juego. Para ello, necesito saber un par de cosas:
+
+1. Si arte podr? hacer/colaborar conmigo con el video introductorio para
+el que os di el audio.
+
+2. La disponibilidad de todo el mundo para posar haciendo el memo durante
+unos segundos delante de mi ?vida c?mara de video con alg?n ropaje
+est?pido y/o mafioso. Voy a necesitar grabaros a todos sin excepci?n, y ha
+de ser lo antes posible, con lo que ten?is que dec?rme c?mo lo ten?is. Los
+que vayamos a quedar el fin de semana, no habr? problema porque el s?bado
+os grabo, y los que no, entre ma?ana por la ma?ana y el viernes se tiene
+que hacer. As? que chicos y chicas, por favor, contestad y me dec?s.
+Chicas, esta vez si que si. Preparad el carm?n, la pluma, el cigarro y el
+liguero. Cada uno ser? libre de tomar la actitud ante la c?mara que
+considere oportuna, pero creo mucho m?s interesante despojarse de
+cualquier tipo de verg?enza e intentar ridiculizarse a uno mismo cuanto
+m?s se pueda. Yo ya tengo mi peluca preparada.
+
+Y en otro orden de cosas, Susi esta noche (supogno que bastante tarde) te
+env?o el dise?o general de la biblia de Abril con los cambios de sonido
+realizados, y el nuevo dise?o en particular de la boca para que hagas con
+ellos lo que tus instintos te indiquen.
+
+Jorge, no te olvides de mandarnos el rational modificado.
+
+All we are saying...is give peace a chance.
+All we are saying...is give peace a chance.
+All we are saying...is give peace a chance.
+All we are saying...is give peace a chance.
+La la la laaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+
+From andresjimenez at arrakis.es  Wed May  4 23:16:33 2005
+From: andresjimenez at arrakis.es (=?iso-8859-1?Q?Andr=E9s_Jim=E9nez_S=E1nchez?=)
+Date: Wed, 4 May 2005 23:16:33 +0200
+Subject: [Cosanostra-general] =?iso-8859-1?Q?Re:_=5BCosanostra-general=5D_Importante_para_todos...sobre?=
+ =?iso-8859-1?Q?_los_cr=E9ditos_del_juego?=
+References: <1838.147.96.85.148.1115226668.squirrel@webmail.arrakis.com> <78428fff0505041148152c67e8@mail.gmail.com>
+Message-ID: <002601c550ee$93151c80$0a01a8c0@deepblue>
+
+O sea Samer, que soy el ?nico que utilizo la mierda de Berlios, y encima te me quejas. Pues se acab? para siempre. Viva Msn.
+
+Ok t?o, gracias por las descripciones. Espero la llamada de Chatly Petas para confirmarme una hora. 
+
+Besitos
+  ----- Original Message ----- 
+  From: Samer 
+  To: Andr?s Jim?nez S?nchez 
+  Cc: Pablo (IS) 
+  Sent: Wednesday, May 04, 2005 8:48 PM
+  Subject: Re: [Cosanostra-general] Importante para todos...sobre los cr?ditos del juego
+
+
+  Andr?s, co?o, usa los posts en los foros, no mandes direstamente a la lista... Jo?, es que as? se graban ordenaditos y tal... Tamos con tus descripciones, te mando una versi?n a medias, que nos chapan el lab. Ahora lo terminamos a mano y Pablo te lo env?a esta noche. Besitoooooossss 
+
+  Sam
+   
+  El d?a 4/05/05, Andr?s Jim?nez S?nchez <andresjimenez at arrakis.es> escribi?: 
+    Si nadie quiere hacerlo y nadie tiene inconveniente, ya que estoy con una
+    canci?n para ellos y los siento como m?os, intentar? no morir y hacer los 
+    cr?ditos del juego. Para ello, necesito saber un par de cosas:
+
+    1. Si arte podr? hacer/colaborar conmigo con el video introductorio para
+    el que os di el audio.
+
+    2. La disponibilidad de todo el mundo para posar haciendo el memo durante 
+    unos segundos delante de mi ?vida c?mara de video con alg?n ropaje
+    est?pido y/o mafioso. Voy a necesitar grabaros a todos sin excepci?n, y ha
+    de ser lo antes posible, con lo que ten?is que dec?rme c?mo lo ten?is. Los 
+    que vayamos a quedar el fin de semana, no habr? problema porque el s?bado
+    os grabo, y los que no, entre ma?ana por la ma?ana y el viernes se tiene
+    que hacer. As? que chicos y chicas, por favor, contestad y me dec?s. 
+    Chicas, esta vez si que si. Preparad el carm?n, la pluma, el cigarro y el
+    liguero. Cada uno ser? libre de tomar la actitud ante la c?mara que
+    considere oportuna, pero creo mucho m?s interesante despojarse de
+    cualquier tipo de verg?enza e intentar ridiculizarse a uno mismo cuanto
+    m?s se pueda. Yo ya tengo mi peluca preparada.
+
+    Y en otro orden de cosas, Susi esta noche (supogno que bastante tarde) te
+    env?o el dise?o general de la biblia de Abril con los cambios de sonido 
+    realizados, y el nuevo dise?o en particular de la boca para que hagas con
+    ellos lo que tus instintos te indiquen.
+
+    Jorge, no te olvides de mandarnos el rational modificado.
+
+    All we are saying...is give peace a chance. 
+    All we are saying...is give peace a chance.
+    All we are saying...is give peace a chance.
+    All we are saying...is give peace a chance.
+    La la la laaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    _______________________________________________ 
+    Cosanostra-general mailing list
+    Cosanostra-general at lists.berlios.de
+    http://lists.berlios.de/mailman/listinfo/cosanostra-general 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/cosanostra-general/attachments/20050504/0263f2bc/attachment.html>
+
+From noreply at berlios.de  Sat May  7 23:08:08 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 7 May 2005 23:08:08 +0200 (CEST)
+Subject: [Cosanostra-general] [cosanostra - General] URGENTE: Reunión del Domingo
+Message-ID: <200505072108.j47L88Um021652@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=17718
+By: s_a_m
+
+Por la imposibilidad de encontrar una estancia que nos acoja. Porque nunca quieren
+que volvamos (y menos de noche). Porque somos una plaga que arrasa con todo.
+Porque a?n est? lejos el d?a en que el p. juego est? terminado. Porque nos queremos
+mucho:
+
+Ma?ana domingo se convoca reuni?n general para integrar por vigesimoquinta vez.
+
+Para ir en coche:
+Hora: 8:30 de la ma?ana (algo est? cambiando...)
+Lugar: en la Sepulvedana de Pr?ncipe P?o (si no hay carreras)
+
+Para quien vive a tomar por culo:
+Hora: 9:00 de la ma?ana
+Lugar: casa de Jose (Moratalaz)
+
+Acabaremos sobre las 22:00. Para los formuleros, Pablo se lleva la tele. Que
+vaya todo el que pueda, aunque sea medio d?a... que ya casi casi lo tenemos...
+je.
+
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
+From noreply at berlios.de  Mon May 16 16:14:20 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Mon, 16 May 2005 14:14:20 GMT
+Subject: [Cosanostra-general] [cosanostra - General] INVITACIONES ENVIADAS
+Message-ID: <200505161414.j4GEEJSQ000369@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=17940
+By: milongo
+
+Bueno chavales, las invitaciones ya est?n enviadas, as? que ya no hay vuelta
+atr?s. Ya podeis empezar todos a currar como perras (los que no estuvierais
+currando ya como mulas) que tiene que quedar todo muy bien para la presentaci?n.
+
+Un abrazo.
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
+From noreply at berlios.de  Wed May 18 01:28:24 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Tue, 17 May 2005 23:28:24 GMT
+Subject: [Cosanostra-general] [cosanostra - General] DPTO MARKETING
+Message-ID: <200505172328.j4HNSOWZ002119@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=17983
+By: milongo
+
+A ver chaval at s, Albert y yo estamos preparando la presentaci?n del mi?rcoles
+y todo lo concerniente. Vamos a hacer carteles en los que ponga algo as? como
+"Presentaci?n del entorno de desarrollo de aventuras gr?ficas *** y demostraci?n
+de la aventura Sirope Como Puedas" Los *** deber?an ser el nombre que elijamos
+para la estructura del juego + la aplicaci?n. Se aceptan sugerencias YA. Si
+no hemos recibido sugerencias ma?ana a mediod?a seremos Albert y yo los que
+elijamos nombre. Y eso puede ser un peligro. Los nombres deben de ser cortos.
+A ser posible una sola palabra.
+
+Un abrazo melones.
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
+From noreply at berlios.de  Wed May 18 11:45:02 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Wed, 18 May 2005 11:45:02 +0200 (CEST)
+Subject: [Cosanostra-general] [cosanostra - General] RE: DPTO MARKETING
+Message-ID: <200505180945.j4I9j2nF013625@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=17993
+By: sergio_belmar
+
+ya se que es un poco mierda, pero como "vito" o "vitto" siempre es el personaje
+jugador, pos es un nombre... No me hagais ni puto caso... ale
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
+From noreply at berlios.de  Mon May 23 23:21:41 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Mon, 23 May 2005 21:21:41 GMT
+Subject: [Cosanostra-general] [cosanostra - General] Two days left
+Message-ID: <200505232121.j4NLLfUi006509@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=18189
+By: milongo
+
+Efectivamente chaval at s, esto ya casi est?!!! ya solo nos queda bordar el trabajo
+que hemos hecho envolvi?ndolo en una espectacular presentaci?n que espero se
+torne en una a?n m?s espectacular fiesta despu?s. No me valen excusas: tengo
+que estudiar, tengo que hacer LSO, IG... que si tengo que sacar al perro...
+que si la abuela fuma. Chaval at s, nos hemos ganado una buena fiesta. Y nos la
+vamos a dar seg?n salgamos de la presentaci?n. Porque nosotros lo valemos. Espero
+que no falte nadie que os caneo.
+
+PD: Andr?s, llevama?ana el marco en blanco sobre negro del v?deo para preparar
+un power point chulo. Albert, acu?rdate de las movidas para la cafeta (tarjeta,
+dinero, cerveza y batido o refresco)
+
+Ala, a dormir se ha dicho.
+
+Os quiero.
+
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
+From noreply at berlios.de  Wed May 25 22:24:19 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Wed, 25 May 2005 22:24:19 +0200 (CEST)
+Subject: [Cosanostra-general] [cosanostra - General] ALGO MU IMPORTANTE!!!
+Message-ID: <200505252024.j4PKOJnW026907@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=18257
+By: scaramouche
+
+Chicos siento no estar con vosotros en el Rio Mi?o pero no he podido. 
+
+Quiero deciros que lo de hoy para mi ha sido alucinante, la gente no dejaba
+de aplaudir, desde que acabaron los creditos yo solo oia aplausos. He recibido
+felicitaciones de todo el mundo!! Felicitaciones que son de todo el grupo!!
+La gente ha flipado con el juego, con la cafeta y con el Quijote (que nervios
+cuando no salia!!) Creo que ha sido un final de IS genial, y ahora me alegro
+que salieramos los ultimos. Hemos dado la gran campanada!!
+
+Todos veniais mu guapos, mu mafiosos y la entrada al salon de actos en fila
+india... sin palabras.
+
+Bueno este mensaje tambien es para decir varias cosillas:
+
+   1. Sigo teniendo en Delegaci?n un cargador de Alkatel que recogimos el otro
+dia en casa de Pablo y que nadie reclama. Mirar todos los que tengais Alkatel
+que no os falta, si os falta ya sabeis alli esta en mi casillero de Delegaci?n.
+   2. Alvarito, un peque?o comentario...quizas te lo digan estas en el
+Rio Mi?o...pero han encontrado tu camisa tirada en la CALLE con la corbata amarilla
+y todo!!! EN LA CALLE!! ves como te dije que a mi no se me habia caido nada!!!
+bueno, recuperada esta. Tambi?n lo he dejado en Delegaci?n. Cuando quieras pasas
+por ella.
+
+Bueno chicos, os veo por la uni. Suerte en los examenes. Espero que el grupo
+no muera, y ... la ultima cena cuando??
+
+
+Besetes a tod at s 
+
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
+From noreply at berlios.de  Mon Jun 20 08:44:25 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Mon, 20 Jun 2005 08:44:25 +0200 (CEST)
+Subject: [Cosanostra-general] [cosanostra - General] Proyecto: se acaba el plazo
+Message-ID: <200506200644.j5K6iPOe013597@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=18981
+By: s_a_m
+
+Aunque la lista est? perdida en el olvido, me he acordado de unos cuantos y
+me he inventado la mayor?a...
+
+Lista de proyectos relacionados con "3Dmiurgo" + "Sirope como puedas":
+
+
+1.- adaptarlo a personas con discapacidad f?sica. Con sonidos para ciegos...
+lo he pensau, imposible. Ni con pantalla t?ctil y q dijera objeto m?s opciones...
+no tiene sentido. ?Como sabe lo q hay en habita y lo que pede hacer con cada
+cosa? Imposible... Por algo se le llama aventura GR?FICA :P
+
+2.- adaptarlo a personas con discapacidad ps?quica (n.p.i.)
+
+3.- mandar instrucciones a Vitto de otras formas: rat?n. Necesita un "pathfinder"
+con inteligencia artificial m?nima, para que si clickeas en la estanter?a, Vitto
+sepa rodear el sof? para llegar.
+
+4.- mandar instrucciones a Vitto de otras formas: webcam. Como lo que ha hecho
+Carlos Le?n (la webcam se?ala a un guante que tienes puesto y que da ?rdenes
+en funci?n de sus movimientos a un robot), pero dando instrucciones de coger,
+usar, avanzar...
+
+5.- puzzles generados por IA con conocimiento sem?ntico con sentido. Se puede
+hacer algo en plan prototipo sobre ello. Definiendo propiedades de los objetos,
+que intentara mezclar s?lo con sentido... lo malo son las cosas a lo "abrir
+PC para sacar florecita y d?rsela al perro", con sentido pero irracionales.
+No es imposible, GAIA est? haciendo cosas chulas con los guiones din?micos y
+m?s.
+
+6.- resultados de los puzzles din?micos, en funci?n de comportamiento previo...
+no cambia la estructura de estados, sino el resultado de las se?ales. Al abrir
+la caja fuerte puede haber uno o diez gallifantes, dependiendo de la hora del
+d?a, por ejemplo.... O mejor, que en funci?n de variables externas, cambian
+resultados... Un mes sin jugar, y Vincenzo ya no te habla, porque ha recibido
+una se?al del sistema para entrar en otro estado. La polla, molar?a y da juego.
+No est? hecho y molar?a mazo.
+
+7.- plugin para exportar las posiciones, el tiro de c?mara, la colocaci?n de
+objetos, las luces... desde maya al xml de gr?ficos. Es lo que m?s de p.m. nos
+vendr?a para nuestro juego, y es posible.
+
+8.- si alguien se atreve... hacerlo multijugador, colaborando o competitivo,
+haciendo que los estados que t? cambies influyan en los del otro.
+
+9.- que con variables externas Vitto genere patrones de comportamiento dirigidos
+por l?gica difusa xDDDD Si ser? por fliparme... pero tambi?n es posible. En
+funci?n de tu comportamiento, Vitto se vuelve m?s r?pido, m?s nervioso, m?s
+torpe... ?A alguien se le ocurren m?s aplicaciones? Hay mil.
+
+10.- generaci?n de lenguaje natural. En lugar de almacenar las frases tal cual,
+s?lo almacenas el concepto, y el programa genera las frases con sentido. Ta
+gracioso, evita tener a un Pablito picando frases con y sin acentos en m?quinas
+de di?logo eternas.
+
+11.- introducir un sistema experto en algunos di?logos, que puede hacerte preguntas,
+y t? responder con la informaci?n que tengas... pero si te falta info sobre
+algo, ?l no te dar? tanta informaci?n como podr?a... da muxo juego. Si no tienes
+un n?mero o un nombre, no puedes seguir preguntando.
+
+12.- interacci?n web. Implementando la comunicaci?n necesaria, entrelazar contenido
+web din?mico con los estados de la aventura, pudiendo mandar se?ales de uno
+a otro. Moooola un taco, pudiendo navegar m?s a fondo en la web s?lo si se ha
+avanzado hasta aqu? o hay? en el juego... y viceversa, que con contenido interactivo
+en la web pudiera cambiarse el estado de las cosas en el juego. No est? hecho
+y se sale.
+
+13.- Aunque no sea multijugador (bajando a la tierra un poquito), s? se le puede
+dar soporte de red para hacer una comunidad alrededor, con servicios de foros,
+chat, con trucos.. de los usuarios. Puede ser simult?neo en plan consola de
+TCL, o que Vitto se tenga que sentar en un ordena (estilo Day of the Tentacle
+pa jugar al Maniac Mansion, que el prota se sentaba en un pc y se abr?a este
+otro juego). Es una mezcla curiosa, pa quien le mole el rollito.
+
+14.- Generaci?n de puzzles a partir de p?rrafos en lenguaje natural, extrayendo
+la informaci?n ?til. Por ejemplo, le metes el walkthrough (gu?a-soluci?n de
+una aventurA) del Monkey Island, y te genera el bicho los objetos y se?ales
+que se necesitan. La polla, la ostia, qu? ideas se me ocurren a las 7:45 de
+la madrugada xDDDDD No es tan flipada, no cre?is: "Entonces, cog? el bote de
+pintura y lo us? con el capit?n Drake dormido. Al despertarse, me di? la moneda
+que me faltaba" -->> existen tres objetos: "bote de pintura", "capit?n Drake"
+y "moneda". "Bote de pintura" es cogible y usable. Si lo usas con Drake, pasa
+a otro estado en el que te da la moneda. Y con esta informaci?n, ya se tienen
+objetos, estados y se?ales de las que tanto nos molan.
+
+15.- Hacer un buen servidor de sonido, c?mo dec?a Andriu. FMOD no puede usarse
+si se quiere comercializar el producto. Nos vendr?a guai.
+
+16.- Hacer un motor gr?fico xDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+Ayz xD ayz... estar?a guai, le quitar?ais el trabajo a Lord Arkam, y fijo que
+os sale mejor que el tru?o de Nebula.
+
+17.- hab?a m?s apuntadas, de aplicaciones gr?ficas que se le hab?an ocurrido
+al Albert... pero nu macuerdo. Si os acord?is, posteadlas.
+
+
+Jooooder voy a suspender estad?stica por pasarme horas invent?ndome proyectos
+:-P Bien, hay unos cuantos. Tenemos de fecha l?mite el 26 de junio s?bado para
+proponerlos. Y hay que proponer, no s?lo de qu? va el proyecto, sino los tres
+integrantes del grupo. He mandado un mail preguntando si la fecha es m?s flexible,
+si se puede enviar por mail, y si podr?amos meter mano en la elecci?n del profe
+(si hubiera varios interesados, je..). Por favor, postead aqu? los que est?is
+interesados, los grupos de tres, y los numeritos de los proyectos que os molar?a
+hacer (con prioridades). Sobre la dificultad de algunos, da igual, porque el
+profe que lo acepte sabr? lo suficiente del tema como para moderar nuestra locura.
+Huelga decir que cada uno haga lo que quiera: si alguien quiere hacer un proyecto
+que no tiene na q ver con estos, no prob. Pero quiero saber los que quereis
+hacer un proyecto del videojuego para presentar las propuestas a la vez, porque
+mi idea era presentarlas todas juntas, y con un pr?logo com?n jejeje. Si hay
+varios grupos interesados en los mismos proyectos, pues ya decidir?amos con
+un poco de flexibilidad. Yo no pongo los que me molar?an a mi porque deber?a
+consultar a los de mi grupo. Porfa, avisar a todos los que creais que puedan
+estar interesados, que ahora en ex?menes nadie (weno, casi nadie jeje) mira
+el correo. Os linkeo aqu? la info disponible en la web:
+
+Para presentar propuestas de proyectos:
+http://www.fdi.ucm.es/local/SI/AvisoProjectosAlumnos2005-06.pdf
+
+Nueva normativa:
+http://www.fdi.ucm.es/local/SI/NormativaSI-05-06.pdf
+
+Informaci?n Sistemas Inform?ticos del a?o pasado:
+http://www.fdi.ucm.es/local/SI/index.asp
+
+
+Sam
+
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
+From noreply at berlios.de  Fri Oct 28 00:11:12 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Fri, 28 Oct 2005 00:11:12 +0200 (CEST)
+Subject: [Cosanostra-general] [cosanostra - General] Próxima quedada Cosa Nostra
+Message-ID: <200510272211.j9RMBCrD006243@unicorn.berlios.de>
+
+Read and respond to this message at: 
+http://developer.berlios.de/forum/message.php?msg_id=23393
+By: s_a_m
+
+Jum. Vaya, parece que vuelve el movimiento al grupo, y hay voces que me reclaman...
+bien, bien, d'accord. El pr?ximo Portador del Anillo propone, por iniciativa
+popular, la noche del viernes 4 de noviembre para armarla. Por favor, solicito
+colaboraci?n para saber qui?n podr?a ir, o qui?n preferir?a el finde siguiente
+(s?bado 5 descartado por imposibilidad log?stica). Preferir?a recibir respuestas
+prontito (como tarde el lunes) para no tener que llamar a 20 personas :-P .
+La propuesta inicial es de cena + juerga loca cl?sica nuestra. Por supuesto,
+desempolvad los trajes... los necesitar?is.
+
+Sam
+
+
+______________________________________________________________________
+You are receiving this email because you elected to monitor this forum.
+To stop monitoring this forum, login to BerliOS Developer and visit: 
+http://developer.berlios.de/forum/monitor.php?forum_id=9530
+
+
